@@ -1,5 +1,5 @@
 {
-    "name": "hngi9 stage 1 task",
+    "name": "hngi9task",
     "version": "1.0.0",
     "description": "this is the solution to the hngi9 stage1 task",
     "main": "server.js",
