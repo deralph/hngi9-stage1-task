@@ -1,8 +1,8 @@
 {
     "name": "hngi9 stage 1 task",
     "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
+    "description": "this is the solution to the hngi9 stage1 task",
+    "main": "server.js",
     "scripts": {
         "start": "node server.js"
     },
