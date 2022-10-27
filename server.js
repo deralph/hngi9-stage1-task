@@ -2,7 +2,7 @@ const http = require("http");
 const port = process.env.PORT || 5000;
 
 
-const slackUsername = 'John Raphael'
+const slackUsername = 'Ralph'
 const backend = true
 const age = 18
 const bio = 'I am a backend engineer, skilled in building and creating high standard, accessible and apealing web application. I collaborate with other developers and use git for version control. I love being in a team where the development of everyone is important and essential and where everyone is understood and has the right attitude to work. During my free time i live to play chess, solve the rubik\'s cube and stay around my family '
